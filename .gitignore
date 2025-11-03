@@ -1,0 +1,18 @@
+# Node
+node_modules/
+dist/
+build/
+
+# Java
+/target/
+/*.iml
+
+# Environment files
+.env
+
+# Docker volumes
+db_data/
+
+# OS
+Thumbs.db
+.DS_Store
