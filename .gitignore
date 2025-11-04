@@ -16,3 +16,6 @@ db_data/
 # OS
 Thumbs.db
 .DS_Store
+
+#VS Code Settings
+.vscode/
