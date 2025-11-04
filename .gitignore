@@ -5,6 +5,7 @@ build/
 
 # Java
 /target/
+/out/
 /*.iml
 
 # Environment files
@@ -17,5 +18,6 @@ db_data/
 Thumbs.db
 .DS_Store
 
-#VS Code Settings
+#IntelliJ and VS Code Settings
+.idea/
 .vscode/
